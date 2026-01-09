@@ -1,3 +1,3 @@
-# <a href="https://timetobreathe.github.io/ZXCPizza/">ZXCPizza</a>
+# <a href="https://lunaquietmagic.github.io/ZXCPizza/">ZXCPizza</a>
 <span>Designed by <a href="https://github.com/empt1nesss">empt1nesss</a></span><br /><br />
 Adaptive Landing for ZXCPizza (by Cyber Community)
